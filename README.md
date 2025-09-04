@@ -4,12 +4,12 @@
  # Ordered list
  1.Github\
  2.Python language\
- 3.C language\
+ 3.C language
  # Unordered list 
  *Work\
- *progress\
+ *progress
  # Nested list
  1.High level languages\
   -C++\
-   -Python etc\
+   -Python etc
    
